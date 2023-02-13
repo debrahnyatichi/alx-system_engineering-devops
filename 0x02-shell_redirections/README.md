@@ -1,1 +1,1 @@
-README file for Shell I/O Redirections
+Shell I/O Redirections
